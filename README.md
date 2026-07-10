@@ -8,16 +8,16 @@ The project also includes a detailed project report and a presentation created u
 **Dataset**:
 The dataset contains sales transaction records with information such as:
 
-Order ID
-Order Date
-Customer Details
-Product Category
-Sales
-Profit
-Quantity
-Discount
-Region
-Shipping Details
+Order ID,
+Order Date,
+Customer Details,
+Product Category,
+Sales,
+Profit,
+Quantity,
+Discount,
+Region,
+Shipping Details,
 The data was cleaned and prepared before analysis to ensure accuracy and consistency.
 
 **Tools & Technologies**:
