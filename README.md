@@ -91,7 +91,7 @@ Identify profitable products.
 Track monthly sales trends.
 Filter data dynamically for deeper insights.
 
-Note: GitHub does not support previewing .pbix (Power BI Desktop) files directly in the browser. The dashboard image below provides a preview of the report. To explore the complete interactive dashboard, download the sales_analysis.pbix file from this repository and open it using Microsoft Power BI Desktop.
+  Note: GitHub does not support previewing .pbix (Power BI Desktop) files directly in the browser. The dashboard image below provides a preview of the report. To explore the complete interactive dashboard, download the sales_analysis.pbix file from this repository and open it using Microsoft Power BI Desktop.
 
 **Key Results**:
 Identified the best-performing product categories.
