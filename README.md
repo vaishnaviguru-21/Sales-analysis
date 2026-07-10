@@ -21,20 +21,20 @@ Shipping Details,
 The data was cleaned and prepared before analysis to ensure accuracy and consistency.
 
 **Tools & Technologies**:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-PostgreSQL
-SQL Queries
-Power BI
-Interactive Dashboard
-DAX Measures
-Gamma
-Project Presentation
-Microsoft Word
-Project Report
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
+PostgreSQL,
+SQL Queries,
+Power BI,
+Interactive Dashboard,
+DAX Measures,
+Gamma,
+Project Presentation,
+Microsoft Word,
+Project Report.
 
 **Project Workflow**:
 1. Data Loading
