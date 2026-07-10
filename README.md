@@ -59,28 +59,28 @@ Prepared the dataset for analysis.
 4. SQL Analysis (PostgreSQL)
 Imported the cleaned dataset into PostgreSQL.
 Performed analytical SQL queries such as:
-Total Sales
-Total Profit
-Region-wise Sales
-Category-wise Performance
-Top Selling Products
-Customer Analysis
-Monthly Sales Trends
-Aggregate Functions
-GROUP BY and ORDER BY Analysis
+Total Sales,
+Total Profit,
+Region-wise Sales,
+Category-wise Performance,
+Top Selling Products,
+Customer Analysis,
+Monthly Sales Trends,
+Aggregate Functions,
+GROUP BY and ORDER BY Analysis.
 
 5. Power BI Dashboard
 Created an interactive dashboard containing:
 
-Total Sales KPI
-Total Profit KPI
-Total Orders
-Sales by Region
-Sales by Category
-Monthly Sales Trend
-Top Products
-Profit Analysis
-Interactive Filters and Slicers
+Total Sales KPI,
+Total Profit KPI,
+Total Orders,
+Sales by Region,
+Sales by Category,
+Monthly Sales Trend,
+Top Products,
+Profit Analysis,
+Interactive Filters and Slicers.
 
 6. Documentation
 Prepared a detailed project report explaining the methodology, analysis, dashboard, findings, and business recommendations.
