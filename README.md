@@ -70,9 +70,7 @@ Aggregate Functions,
 GROUP BY and ORDER BY Analysis.
 
 5. Power BI Dashboard
-Created an interactive dashboard containing:
-
-Total Sales KPI,
+Created an interactive dashboard containing: Total Sales KPI,
 Total Profit KPI,
 Total Orders,
 Sales by Region,
