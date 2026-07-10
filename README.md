@@ -5,7 +5,7 @@ Data analytics project transforming sales data into actionable insights using Py
 This project demonstrates an end-to-end Data Analytics workflow using Python, SQL, and Power BI. The objective is to transform raw sales data into meaningful business insights through data cleaning, exploratory data analysis (EDA), SQL analysis, and interactive dashboard visualization.
 The project also includes a detailed project report and a presentation created using Gamma to communicate the findings effectively.
 
-Dataset
+Dataset:
 The dataset contains sales transaction records with information such as:
 
 Order ID
