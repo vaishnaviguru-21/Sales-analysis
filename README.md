@@ -82,6 +82,8 @@ Top Products
 Profit Analysis
 Interactive Filters and Slicers
 
+Note: GitHub does not support previewing .pbix (Power BI Desktop) files directly in the browser. The dashboard image below provides a preview of the report. To explore the complete interactive dashboard, download the sales_analysis.pbix file from this repository and open it using Microsoft Power BI Desktop.
+
 6. Documentation
 Prepared a detailed project report explaining the methodology, analysis, dashboard, findings, and business recommendations.
 
